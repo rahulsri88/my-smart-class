@@ -1,0 +1,2 @@
+rootProject.name = "my-smart-class"
+include(":app")
